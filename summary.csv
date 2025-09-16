@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+DemoQA-Homepage,2000,217,109,2898,407.88,0.000%,1.05535,4.10,0.24,3982.1
+DemoQA-Homepage-0,1000,117,53,1923,273.21,0.000%,201.32877,130.12,22.61,661.8
+DemoQA-Homepage-1,1000,86,55,586,98.15,0.000%,315.15916,1022.37,36.62,3321.8
+TOTAL,4000,159,53,2898,328.17,0.000%,2.11070,6.16,0.36,2987.0
